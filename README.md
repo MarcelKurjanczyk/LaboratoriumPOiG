@@ -1,10 +1,10 @@
 Zmiany w grze: 
 
--zmiany kolorów broni;
+-zmiany kolorów broni 'LASER'- zielony 'BULLET' - czerwony, 'CROSS' - niebieski;
 
-zmiana prędkości 'BULLET';
+zmiana prędkości 'BULLET' - okrągłe pociski lecą szybciej;
 
--dodanie broni 'CROSS';
+-dodanie broni 'CROSS' - strzelanie krzyżykami;
 
 -dodanie tworzenia pocisków lecących losowo w prawo lub w lewo kiedy zostanie trafiona asteroida;
 
