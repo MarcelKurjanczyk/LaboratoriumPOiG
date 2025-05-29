@@ -16,4 +16,5 @@ Przykładowy Gameplay :
 
 Project 2 :
 
-![1](https://github.com/user-attachments/assets/5c834903-a9b1-40fe-a9ec-5415c403755e)
+![2](https://github.com/user-attachments/assets/f94f4407-a5cf-415f-91ad-6b4b14cbe9cd)
+
